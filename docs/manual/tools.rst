@@ -19,6 +19,7 @@ The ``cyclonedds`` command line tool
 
 The ``ls`` subcommand shows you the entities in your DDS system and their QoS settings. For example, here is the output when running the ``Vehicle`` example from this repo in the background:
 
+Some other stuff here
 .. image:: static/images/cyclonedds-ls-demo.svg
     :alt: ``cyclonedds ls --suppress-progress-bar --force-color-mode``
 
