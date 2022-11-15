@@ -1,7 +1,7 @@
 Tools
 =====
 
-When you install the ``cyclonedds`` Python package you also get a ``cyclonedds`` command line tool with several subcommands.
+Bundled with the ``cyclonedds`` Python packageis the ``cyclonedds`` command line tool, which that has the following subcommands:
 
 The ``cyclonedds`` command line tool
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
